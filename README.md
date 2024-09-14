@@ -4,6 +4,6 @@ A mini project for the class I am taking this summer (S2024 Term 1): Psychology 
 This class focuses on Brain and Behaviour, and through this mini project, I aim to make a very simple Akinator that hopes to guess the type of visualization technique one is thinking of 
 based on a series of 'yes' and 'no' questions. The visualization techniques considered are just those we have learned in class. 
 
-Help from the following articles: https://habr.com/ru/articles/84364/ and ???
+Help from the following article: https://habr.com/ru/articles/84364/ 
 
 In the future: expand to include novel and visualization techniques that we did not learn in class. 
